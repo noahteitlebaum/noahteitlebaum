@@ -1,16 +1,15 @@
-## Hi there 👋
+## Education  
+Western University - London, Ontario  
+Bachelor of Computer Science w/ Ivey AEO- Expected Graduation, Apr 2028
 
-<!--
-**noahteitlebaum/noahteitlebaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Technical Skills  
+Languages: Python, Java, JavaScript, C#, HTML, CSS
+Libraries & Frameworks: React, Node.js, NumPy, Pandas  
+Platforms & Tools: Git, VS Code, Windows, Eclipse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Let's Connect  
+I'm open to software engineering internships, research projects, and collaborating on open-source projects.
