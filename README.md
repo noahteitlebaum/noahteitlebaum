@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Noah%20Teitlebaum&fontSize=40&fontAlign=center&fontColor=ffffff"/>
-  <h3><em>Computer Science Undergrad and Ivey AEO student at University of Western</em></h3>
+  <h3><em>Computer Science Undergrad and Ivey AEO student at the University of Western Ontario</em></h3>
 </div>
 <br><br>
 
