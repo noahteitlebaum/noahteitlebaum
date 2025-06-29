@@ -1,6 +1,6 @@
 ## Education  
 Western University - London, Ontario  
-Bachelor of Computer Science w/ Ivey AEO- Expected Graduation, Apr 2028
+Bsc, Computer Science w/ Ivey AEO- *Expected Graduation, Apr 2028*
 
 ---
 
