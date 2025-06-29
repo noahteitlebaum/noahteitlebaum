@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahteitlebaum&theme=github-light)
 
+---
+
 ## Education  
 Western University - London, Ontario  
 Bsc, Computer Science w/ Ivey AEO - *Expected Graduation, Apr 2028*
