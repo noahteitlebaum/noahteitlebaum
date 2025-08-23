@@ -15,7 +15,7 @@ Bsc, Computer Science w/ Ivey AEO - *Expected Graduation, Apr 2028*
 ---
 
 ## Technical Skills
-Languages: Python, C#, JavaScript, TypeScript, HTML, CSS
+Languages: Python, C#, JavaScript, TypeScript, HTML, 
 Developer Tools: Visual Studio, Git/GitHub, MonoGame, EmailJS, CLI Tools
 Libraries / Frameworks: React, Tailwind CSS, Pandas, NumPy, LightGBM, Algorand SDK, Anthropic API
 
