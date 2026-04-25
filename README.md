@@ -13,7 +13,7 @@ Bsc, Computer Science w/ Ivey AEO - *Expected Graduation, Apr 2028*
 ---
 
 ## Technical Skills
-Languages: Python, C#, Java, JavaScript, HTML, CSS
+Languages: Python, C, C#, Java, JavaScript, HTML, CSS, ARM Assembly
 
 Developer Tools: Visual Studio, Git/GitHub, MonoGame, EmailJS, CLI Tools
 
